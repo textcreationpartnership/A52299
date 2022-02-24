@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession of Francis Nicholson (who committed that most barbarous murther upon the body of John Dimbleby, servant to Mr. Marriot) at the place of execution which was upon the green over against Hampton-Court, and near the place where he did the murther on Wednesday last, it being the 27th of October 1680 : who was afterwards carried to Hounslow-Heath and there hang'd up in chains.</title>
+            <author>Nicholson, Francis, d. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52299</idno>
+            <idno type="STC">Wing N1108</idno>
+            <idno type="STC">ESTC R28729</idno>
+            <idno type="EEBO-CITATION">10749894</idno>
+            <idno type="OCLC">ocm 10749894</idno>
+            <idno type="VID">45638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52299)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45638)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession of Francis Nicholson (who committed that most barbarous murther upon the body of John Dimbleby, servant to Mr. Marriot) at the place of execution which was upon the green over against Hampton-Court, and near the place where he did the murther on Wednesday last, it being the 27th of October 1680 : who was afterwards carried to Hounslow-Heath and there hang'd up in chains.</title>
+                  <author>Nicholson, Francis, d. 1680.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Richard Janeway,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45638:1"/>
+            <!-- PDF PAGE 39 -->
+            <pb n="1" facs="tcp:45638:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 39 -->
+            <head>THE CONFESSION OF Francis Nicholſon,</head>
+            <argument>
+               <p>(Who committed that moſt barbarous Murther upon the Body of <hi>John Dimbleby,</hi> Servant to Mr. <hi>Marriot</hi>) at the Place of Execution, which was upon the Green over againſt <hi>Hampton-Court,</hi> and near the Place where he did the Murther, on <hi>Wedneſday</hi> laſt, it being the <hi>27th</hi> of <hi>October</hi> 1680, who was afterwards carried to <hi>Hounſlow-Heath,</hi> and there hang'd up in Chains.</p>
+            </argument>
+            <p>AS ſoon as he came under the Gibbet, looking up, he ſaid, Oh Lord! what have I brought my ſelf to! the Lord pity my poor Soul. One being in the Cart, askt him, <hi>Francis,</hi> how is it with you? have you make your peace with God, and got an aſſurance of the pardon of your ſins? He an<g ref="char:EOLhyphen"/>ſwered, I hope it is well with me, the Lord be merciful to my poor Soul. Then a worthy Miniſter ſpake to him, and ſaid, <hi>Francis,</hi> the Lord hath now given you a long time of Repentance to make your peace with God in, and I hope you have made a good uſe of it. I deſire you now, as well in charity to your own Soul, as in juſtice to others, to make an honeſt and ingenuous Confeſſion, and that you would neither accuſe the Innocent, or excuſe the Guilty, but clear your Conſcience now you are entering upon the borders of E<g ref="char:EOLhyphen"/>ternity; you have but a few minutes to live, do not deceive your Soul, but ſpeak the truth, and let us know what did induce you to this great wickedneſs for which you are now to die within a few minutes. The Coachman being then by, ſaith <hi>Francis,</hi> This man is an innocent man, I freely acquit him, graſping him by the hand. He further ſaid, he is as innocent of the Fact as the Child unborn; and I deſire all perſons to take notice of it, for I have done him a
+<pb n="2" facs="tcp:45638:2"/>
+               <!-- PDF PAGE 40 -->great deal of wrong. Oh Lord! that I ſhould accuſe an innocent perſon! Saith he to the Coachman, I clear thee with all my heart, and I earneſtly beg your pardon. Then the Coachman replied, I freely forgive thee with all my heart. The Lord forgive thee, and the Lord Jeſus Chriſt forgive thee, ſaith the Miniſter, Which I hope he will. Then ſaith <hi>Francis,</hi> None ſet me on to do this moſt barbarous murther but the Devil; it was he that inſtigated me, and ſet me on to do it: For I had made a Vow to kill a man before I went from <hi>Hampton-Court,</hi> and the Devil appeared to me and told me, I was damn'd if I did not perform my Vow. Whereupon I was never at quiet or reſt till I had acted that moſt inhumane Murther. Then the Miniſter askt him, What papers or Moneys did you take from him, for there is ſeveral Bonds and Writings, and other things, beſides Moneys, that is wanting? <hi>Francis</hi> then anſwered, I took no papers nor Writings, but only twenty Shillings in Moneys, which I took out of his pocket, and a Watch; as I am a dying man I took nothing elſe. Then the Miniſter askt him this, Did ever any perſon ſet you on to do this Murther, or induce you with the hopes of a pardon to impeach any perſon? <hi>Francis</hi> anſwered, No. Then ſaith the Miniſter, Why did you Impeach the Coachman, and charge him as the Author of the Murther, and that he ſhould hire you to do it? Saith <hi>Francis,</hi> Mr. <hi>Stephenſon</hi> at the <hi>Toy</hi> askt me (when I was before the Juſtice who committed me) whether any one did not ſet me on to do it, and whether the Coachman had not hir'd me? and this is all I know of it, as I am now entering into Eternity; and that put me in mind to accuſe the Coachman, and this is all I know of it; and ſo the Lord forgive me. Oh that I ſhould be the murther<g ref="char:EOLhyphen"/>er of an Innocent perſon! Oh that I ſhould take away a poor mans life, and that in ſuch a barbarous manner! The Lord be merciful to my poor Soul. Oh how gracious God hath been to mypoor ſoul! that hath given me ſo long time of Repentance He might have ſnatcht me away in my younger days, but Oh what would have become of my poor ſoul, if I had died before I had made my peace with God, or if I had died immediately upon the murther! I care not for my Body, ſo my Soul may be ſaved; for the death of the Body is nothing, but the eternal death and damnation of the Soul is terrible.</p>
+            <p>The ſaith the Miniſter, pray make ſome Confeſſion to the peo<g ref="char:EOLhyphen"/>ple. Which <hi>Francis</hi> did to this effect, Oh you that are here come to ſee me a poor young man die a moſt ſhameful death, in the prime of my youth. I do declare before you all, as I ſhall anſwer it before my God and Judg within a few minutes, that I took neither Box now Writings, nor any thing elſe, but only 20 Shillings in moneys, and a Watch, and I clear the Coachman before you all, for he is innocent
+<pb n="3" facs="tcp:45638:2"/>
+               <!-- PDF PAGE 40 -->of it, the Lord forgive me for it. Then the Miniſter made a moſt excellent Prayer; which ended the Young-man ſpake to the peo<g ref="char:EOLhyphen"/>ple, (as he was going to aſcend the Ladder) and ſaid, The Lord forgive me, the Lord forgive me; Oh that you all would take warning by my Death; and pray take heed of breaking the Sabbath, and ill company, and drinking; for it was Sabbath-breaking firſt, and then ill company, and drinking, which brought me to do this great wickedneſs, and to cauſe me to run headlong to the Devil: The Lord be merciful to my poor Soul. Lord! I am going out of this world; the Lord forgive my Soul; the Lord pardon my ſins, and receive my Soul. I beſeech thee, good Lord, grant me an Intereſt in Jeſus Chriſt, and that I may ſit at thy Right Hand in Heaven when I depart this life. Oh! that I ſhould com<g ref="char:EOLhyphen"/>mit ſuch a horrid fact, which ſhould cauſe me now to dye like a dog, and to ſuffer ſuch a ſhameful death: If I had been taken away before now, I might have been in Hells everlaſting burnings; but God hath been merciful to my Soul. Oh that you all would take notice by my ſhameful death, and not break the Sabbath: Oh that you all would take notice by me, and that God would pardon all your ſins; for it was Sabbath-breaking that brought me to my ruine. Oh E<g ref="char:EOLhyphen"/>ternity! Eternity! Oh improve well your time, and conſider your latter end, and often think of Eternity: I am now going into E<g ref="char:EOLhyphen"/>ternity, the Lord be merciful to my poor Soul now and for ever<g ref="char:EOLhyphen"/>more. Oh Lord receive my Soul at thy Right hand in Heaven to all Eternity: Oh Lord! thou who didſt dye for ſins, receive my poor Soul, and that I may have benefit by thy death, and that my Soul may be received into the Kingdom of Heaven: The death of the body is nothing, but the Eternal damnation of the Soul is ſad: Oh who can live in Hells eternal torments: But Oh Lord! take me into a better World now I am going out of this wicked World, Oh Lord receive me into thy Paradiſe, and pardon my ſins. Then he ſaid the Lords Prayer, and afterwards ſaid, The Lord lift up my heart to Heaven: Oh the Devil, it was the Devil that lead my heart away; the Lord treat him down, that deceives ſo many poor Souls, and which hath deceived my Soul: Oh that I may make my peace with God now, before I go hence: Oh that all theſe good peo<g ref="char:EOLhyphen"/>ple would put up their prayers for me. Then ſaid the Miniſter, the Lord receive your Soul into eternal life; then ſaith <hi>Francis,</hi> the Lord ſave me, and receive me into thine everlaſting Arm; the Lord receive a poor wicked ſinner as I have been. Oh Death! Oh Lord God look upon me in mercy: Then one ſtanding by ſaid, Oh Re<g ref="char:EOLhyphen"/>member him that ſaved the Thief upon the Croſs; upon which he ſaid, Oh the Devil that hath tormented me! Oh the Lord be with
+<pb n="4" facs="tcp:45638:3"/>
+               <!-- PDF PAGE 41 -->me, and the Lord be with thee, ſaith he to the Coachman, for I clear you; and the Lord forgive thee, ſaith the Coachman to him a<g ref="char:EOLhyphen"/>gain, for I forgive thee.</p>
+            <p>One being deſired by ſome perſons, ask'd him this Queſtion, Whe<g ref="char:EOLhyphen"/>ther any one did induce him to Impeach the Coachman upon the promiſe of life, or out of a grudg and diſguſt to the Coachman, or to the Perſon of Quality whom he ſerved? Oh! ſaith the young man, None but the Devil. Then juſt before he was turned off the Lad<g ref="char:EOLhyphen"/>der, he ſaid, Lord Jeſus Chriſt Remember me now, Lord Jeſus Chriſt Remember me now, take me into thy paradiſe, take me into thy paradiſe: Then he called out for <hi>Goody Hart;</hi> whereupon ſhe was call'd, but could not be found: Oh, ſaith he, <hi>Goody Hart</hi> is a good Woman, the Lord bleſs her; the Lord Jeſus Chriſt forgive me, and be with me. Then he ſaid the Lords Prayer again, which done, he ſaid, the Lord bleſs every ſoul, and my Soul: but ſeeing <hi>Goody Harts</hi> daughter, he ſaid fare you well <hi>Betty,</hi> fare you well, I am going out of this World, Oh pray for me: the I ord (ſaith ſhe) forgive you, and receive your Soul: Oh ſaith he, the Lord Jeſus Chriſt receive my Soul: Oh all good people take notice by me; Lord be with my Soul. And ſo was turned off the Ladder.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed, and are to be Sold by <hi>Richard Janeway</hi> in <hi>Queens<g ref="char:EOLhyphen"/>head Albey</hi> in <hi>Pater-Noſter. Row.</hi> 1680.</p>
+            <pb facs="tcp:45638:3"/>
+            <!-- PDF PAGE 41 -->
+         </div>
+      </back>
+   </text>
+</TEI>
